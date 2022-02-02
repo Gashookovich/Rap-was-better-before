@@ -1,0 +1,122 @@
+.container {
+    background: black;
+}
+
+.container__red {
+    color: yellow;
+    font-size: 50px;
+    font-family: Marker Felt, fantasy;
+}
+
+.container__icon {
+    width: 12%;
+    height: 9%;
+}
+
+.container__home {
+    color: yellow;
+    font-size: 170%;
+    font-family: Marker Felt, fantasy;
+    margin-right: 20px;
+    text-decoration-line: none;
+}
+
+.container__home:hover {
+    color: #9370DB;
+}
+
+.container__score {
+    color: yellow;
+    font-size: 170%;
+    font-family: Marker Felt, fantasy;
+    margin-right: 20px;
+    text-decoration-line: none;
+}
+
+.container__score:hover {
+    color: #9370DB;
+}
+
+.container__auth {
+    color: yellow;
+    font-size: 170%;
+    font-family: Marker Felt, fantasy;
+    margin-right: 10px;
+    text-decoration-line: none;
+}
+
+.container__auth:hover {
+    color: #9370DB;
+}
+
+.container__image {
+    width: 100%;
+    height: 500px;
+}
+
+.container__head {
+    text-align: center;
+    color: #FFD700;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: Comic Sans MS;
+}
+
+.container__title {
+    color: #FFD700;
+    font-family: Marker Felt;
+}
+
+.container__desc {
+    color: #FFD700;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+.block-list {
+    background: yellow;
+    font-family: Comic Sans MS;
+    color: black;
+    border: #9370DB solid 3px;
+}
+
+.list-group {
+    background: black;
+    font-family: Bradley Hand, cursive;
+    font-size: 21px;
+    font-weight: bold;
+    border-radius: 25px;
+    border: none;
+}
+
+.list-group-value {
+    background: yellow;
+    border: #9370DB solid 2px;
+    border-radius: 20px;
+    margin-top: 5px;
+    padding: 8px 8px;
+    text-align: center;
+}
+
+.footer {
+    width: 70%;
+    background: black;
+    display: flex;
+    align-items: self-end;
+    padding: 20px 10px;
+    font-size: 15px;
+    text-align: end;
+}
+
+.footer__copyright {
+    color: yellow;
+    margin-left: auto;
+}
+
+.container__card-page {
+    border: #9370DB solid 2px;
+}
+
+
+
+
